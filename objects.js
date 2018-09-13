@@ -1,8 +1,8 @@
 var playlist = {Albano: "Felicita"};
 
 var playlist = {Slowdive: "Alison"};
-var playlist = {
+var playlist = {MyBloodyValentine: "Alison"};
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist.Arisa = 'Noia';
+  playlist.PhilOchs = 'Noia';
   return playlist;
 }

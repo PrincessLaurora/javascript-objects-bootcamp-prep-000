@@ -6,3 +6,4 @@ function updatePlaylist(playlist, artistName, songTitle) {
   playlist['Phil Ochs'] = 'Heres to the State of Mississippi';
   return playlist;
 }
+
